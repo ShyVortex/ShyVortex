@@ -2,7 +2,7 @@
 - 👀 I’m interested in technology and gaming
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on open-source projects
-- 📫 You can contact me at: angelo200.a@gmail.com
+- 📫 You can contact me at: angelotr@ik.me
 
 <!---
 ShyVortex/ShyVortex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
